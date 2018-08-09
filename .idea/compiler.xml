@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Toeic-Core-Dao" />
+        <module name="Toeic-Core-Dao-Impl" />
+        <module name="Toeic-Core-Data" />
+        <module name="Toeic-Core-Dto" />
+        <module name="Toeic-Core-Service" />
+        <module name="Toeic-Core-Service-Impl" />
+        <module name="Toeic-Core-Utils" />
+        <module name="Toeic-Web" />
+        <module name="toeic-web" />
+        <module name="Toeic-Web-Logic" />
+        <module name="ToeicWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Toeic-Core-Dao" target="1.5" />
+      <module name="Toeic-Core-Dao-Impl" target="1.5" />
+      <module name="Toeic-Core-Data" target="1.5" />
+      <module name="Toeic-Core-Dto" target="1.5" />
+      <module name="Toeic-Core-Service" target="1.5" />
+      <module name="Toeic-Core-Service-Impl" target="1.5" />
+      <module name="Toeic-Core-Utils" target="1.5" />
+      <module name="Toeic-Web" target="1.5" />
+      <module name="toeic-web" target="1.5" />
+      <module name="Toeic-Web-Logic" target="1.5" />
+      <module name="ToeicOnline" target="1.5" />
+      <module name="ToeicWeb" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

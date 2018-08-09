@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>vn.myclass</groupId>
+    <artifactId>ToeicOnline</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>Toeic-Web-Logic</module>
+        <module>Toeic-Web</module>
+        <module>Toeic-Core-Dto</module>
+        <module>Toeic-Core-Data</module>
+        <module>Toeic-Core-Dao</module>
+        <module>Toeic-Core-Dao-Impl</module>
+        <module>Toeic-Core-Service</module>
+        <module>Toeic-Core-Service-Impl</module>
+        <module>Toeic-Core-Utils</module>
+    </modules>
+
+
+
+</project>
