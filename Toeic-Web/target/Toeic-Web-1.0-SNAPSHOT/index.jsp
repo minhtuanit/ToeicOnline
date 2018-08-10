@@ -1,3 +1,4 @@
+<%@page contentType="text/html; ISO-8859-1" language="java" %>
 <!doctype html>
 <html lang="en">
 <head>
@@ -8,6 +9,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Tuan dep trai qua nh</p>
+    <p>Tuan dep trai qua nha</p>
 </body>
 </html>

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Common/Toeic-Core-Common.iml" filepath="$PROJECT_DIR$/Toeic-Core-Common/Toeic-Core-Common.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Dao/Toeic-Core-Dao.iml" filepath="$PROJECT_DIR$/Toeic-Core-Dao/Toeic-Core-Dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Dao-Impl/Toeic-Core-Dao-Impl.iml" filepath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/Toeic-Core-Dao-Impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Data/Toeic-Core-Data.iml" filepath="$PROJECT_DIR$/Toeic-Core-Data/Toeic-Core-Data.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Dto/Toeic-Core-Dto.iml" filepath="$PROJECT_DIR$/Toeic-Core-Dto/Toeic-Core-Dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Persistence-Data/Toeic-Core-Persistence-Data.iml" filepath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/Toeic-Core-Persistence-Data.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Service/Toeic-Core-Service.iml" filepath="$PROJECT_DIR$/Toeic-Core-Service/Toeic-Core-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Service-Impl/Toeic-Core-Service-Impl.iml" filepath="$PROJECT_DIR$/Toeic-Core-Service-Impl/Toeic-Core-Service-Impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Utils/Toeic-Core-Utils.iml" filepath="$PROJECT_DIR$/Toeic-Core-Utils/Toeic-Core-Utils.iml" />

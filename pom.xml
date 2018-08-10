@@ -7,6 +7,37 @@
     <artifactId>ToeicOnline</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <properties>
+        <servlet.api.version>3.1.0</servlet.api.version>
+        <jsp.api.version>2.3.1</jsp.api.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet.jsp</groupId>
+            <artifactId>javax.servlet.jsp-api</artifactId>
+            <version>2.3.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.31</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>4.3.6.Final</version>
+        </dependency>
+
+
+    </dependencies>
 
     <modules>
         <module>Toeic-Web-Logic</module>
@@ -18,8 +49,7 @@
         <module>Toeic-Core-Service</module>
         <module>Toeic-Core-Service-Impl</module>
         <module>Toeic-Core-Utils</module>
+        <module>Toeic-Core-Persistence-Data</module>
+        <module>Toeic-Core-Common</module>
     </modules>
-
-
-
 </project>

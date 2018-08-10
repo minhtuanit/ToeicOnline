@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Toeic-Core-Common" />
         <module name="Toeic-Core-Dao" />
         <module name="Toeic-Core-Dao-Impl" />
         <module name="Toeic-Core-Data" />
         <module name="Toeic-Core-Dto" />
+        <module name="Toeic-Core-Persistence-Data" />
         <module name="Toeic-Core-Service" />
         <module name="Toeic-Core-Service-Impl" />
         <module name="Toeic-Core-Utils" />
@@ -20,10 +22,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Toeic-Core-Common" target="1.5" />
       <module name="Toeic-Core-Dao" target="1.5" />
       <module name="Toeic-Core-Dao-Impl" target="1.5" />
       <module name="Toeic-Core-Data" target="1.5" />
       <module name="Toeic-Core-Dto" target="1.5" />
+      <module name="Toeic-Core-Persistence-Data" target="1.5" />
       <module name="Toeic-Core-Service" target="1.5" />
       <module name="Toeic-Core-Service-Impl" target="1.5" />
       <module name="Toeic-Core-Utils" target="1.5" />
