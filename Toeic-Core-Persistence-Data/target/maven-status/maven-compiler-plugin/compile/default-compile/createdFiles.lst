@@ -1,2 +1,4 @@
-vn\myclass\core\persestence\entity\User.class
+vn\myclass\core\persestence\entity\ListenGuideLine.class
 vn\myclass\core\persestence\entity\Role.class
+vn\myclass\core\persestence\entity\Comment.class
+vn\myclass\core\persestence\entity\User.class
