@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Persistence-Data/Toeic-Core-Persistence-Data.iml" filepath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/Toeic-Core-Persistence-Data.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Service/Toeic-Core-Service.iml" filepath="$PROJECT_DIR$/Toeic-Core-Service/Toeic-Core-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Service-Impl/Toeic-Core-Service-Impl.iml" filepath="$PROJECT_DIR$/Toeic-Core-Service-Impl/Toeic-Core-Service-Impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Test/Toeic-Core-Test.iml" filepath="$PROJECT_DIR$/Toeic-Core-Test/Toeic-Core-Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Core-Utils/Toeic-Core-Utils.iml" filepath="$PROJECT_DIR$/Toeic-Core-Utils/Toeic-Core-Utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Web/Toeic-Web.iml" filepath="$PROJECT_DIR$/Toeic-Web/Toeic-Web.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toeic-Web-Logic/Toeic-Web-Logic.iml" filepath="$PROJECT_DIR$/Toeic-Web-Logic/Toeic-Web-Logic.iml" />

@@ -51,5 +51,6 @@
         <module>Toeic-Core-Utils</module>
         <module>Toeic-Core-Persistence-Data</module>
         <module>Toeic-Core-Common</module>
+        <module>Toeic-Core-Test</module>
     </modules>
 </project>

@@ -1,4 +1,4 @@
-package vn.myclass.core.common.utils;
+package vn.myclass.core.common.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -17,6 +17,5 @@ public class HibernateUtil {
     public static SessionFactory getSesstionFactory(){
         return sessionFactory;
     }
-
 
 } 

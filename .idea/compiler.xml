@@ -14,9 +14,10 @@
         <module name="Toeic-Core-Persistence-Data" />
         <module name="Toeic-Core-Service" />
         <module name="Toeic-Core-Service-Impl" />
+        <module name="Toeic-Core-Test" />
         <module name="Toeic-Core-Utils" />
-        <module name="Toeic-Web" />
         <module name="toeic-web" />
+        <module name="Toeic-Web" />
         <module name="Toeic-Web-Logic" />
         <module name="ToeicWeb" />
       </profile>
@@ -30,6 +31,7 @@
       <module name="Toeic-Core-Persistence-Data" target="1.5" />
       <module name="Toeic-Core-Service" target="1.5" />
       <module name="Toeic-Core-Service-Impl" target="1.5" />
+      <module name="Toeic-Core-Test" target="1.5" />
       <module name="Toeic-Core-Utils" target="1.5" />
       <module name="Toeic-Web" target="1.5" />
       <module name="toeic-web" target="1.5" />
