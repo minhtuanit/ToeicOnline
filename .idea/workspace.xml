@@ -7,124 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef82756-8ea7-43a5-9bd5-42ee321a5449" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Toeic-Test/Toeic-Test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Toeic-Test/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Toeic-Test/src/main/resources/testng.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Toeic-Test/src/test/java/vn/myclass/test/RoleTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_31.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Common/target/Toeic-Core-Common-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Common/target/classes/vn/myclass/core/common/utils/HibernateUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Common/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/target/Toeic-Core-Dao-Impl-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao/target/Toeic-Core-Dao-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Data/target/Toeic-Core-Data-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Data/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dto/target/Toeic-Core-Dto-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dto/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Dto/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/target/Toeic-Core-Persistence-Data-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service-Impl/target/Toeic-Core-Service-Imlp-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service-Impl/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service-Impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service-Impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service/target/Toeic-Core-Service-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Test/Toeic-Core-Test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Test/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Test/src/main/resources/testng.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Test/src/test/java/vn/myclass/core/test/RoleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Test/target/classes/testng.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Test/target/classes/vn/myclass/core/test/RoleTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Utils/target/Toeic-Core-Utils-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Utils/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Core-Utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web-Logic/target/Toeic-Web-Logic-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web-Logic/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web-Logic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web-Logic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web-Logic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/src/main/java/vn/myclass/core/persestence/entity/CommentEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/src/main/java/vn/myclass/core/persestence/entity/ListenguidelineEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/src/main/java/vn/myclass/core/persestence/entity/RoleEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/src/main/java/vn/myclass/core/persestence/entity/UserEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/classes/hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/classes/vn/myclass/core/persestence/entity/CommentEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/classes/vn/myclass/core/persestence/entity/ListenguidelineEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/classes/vn/myclass/core/persestence/entity/RoleEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/classes/vn/myclass/core/persestence/entity/UserEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/Toeic-Core-Persistence-Data-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/Toeic-Web-Logic-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.6.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp-api-2.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.31.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/Toeic-Web-1.0-SNAPSHOT/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/classes/vn/myclass/core/persestence/entity/CommentEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/classes/vn/myclass/core/persestence/entity/ListenguidelineEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/classes/vn/myclass/core/persestence/entity/RoleEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/classes/vn/myclass/core/persestence/entity/UserEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toeic-Web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Toeic_Web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Toeic_Web_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Common/Toeic-Core-Common.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Common/Toeic-Core-Common.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Common/pom.xml" afterPath="$PROJECT_DIR$/Toeic-Core-Common/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Common/src/main/java/vn/myclass/core/common/util/HibernateUtil.java" afterPath="$PROJECT_DIR$/Toeic-Core-Common/src/main/java/vn/myclass/core/common/util/HibernateUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/Toeic-Core-Dao-Impl.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/Toeic-Core-Dao-Impl.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/src/main/java/vn/myclass/core/daoimpl/RoleDAOImpl.java" afterPath="$PROJECT_DIR$/Toeic-Core-Dao-Impl/src/main/java/vn/myclass/core/daoimpl/RoleDAOImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Dao/Toeic-Core-Dao.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Dao/Toeic-Core-Dao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Data/Toeic-Core-Data.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Data/Toeic-Core-Data.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java" afterPath="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java" afterPath="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Dto/Toeic-Core-Dto.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Dto/Toeic-Core-Dto.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/Toeic-Core-Persistence-Data.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Persistence-Data/Toeic-Core-Persistence-Data.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Service-Impl/Toeic-Core-Service-Impl.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Service-Impl/Toeic-Core-Service-Impl.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Service-Impl/pom.xml" afterPath="$PROJECT_DIR$/Toeic-Core-Service-Impl/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Service/Toeic-Core-Service.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Service/Toeic-Core-Service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Core-Utils/Toeic-Core-Utils.iml" afterPath="$PROJECT_DIR$/Toeic-Core-Utils/Toeic-Core-Utils.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Web-Logic/Toeic-Web-Logic.iml" afterPath="$PROJECT_DIR$/Toeic-Web-Logic/Toeic-Web-Logic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Web/Toeic-Web.iml" afterPath="$PROJECT_DIR$/Toeic-Web/Toeic-Web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Web/src/main/resources/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/Toeic-Web/src/main/resources/hibernate.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Toeic-Web/target/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/Toeic-Web/target/classes/hibernate.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ToeicOnline.iml" afterPath="$PROJECT_DIR$/ToeicOnline.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -173,11 +58,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RoleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RoleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Toeic-Test/src/test/java/vn/myclass/test/RoleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,11 +80,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractDAO.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AbstractDAO.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="55" column="35" lean-forward="true" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            <state relative-caret-position="203">
+              <caret line="114" column="8" lean-forward="false" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="101" lean-forward="false" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
               <folding />
             </state>
           </provider>
@@ -305,8 +202,6 @@
         <option value="$PROJECT_DIR$/Toeic-Core-Dao-Impl/src/main/java/vn/myclass/core/daoimpl/RoleDAOImpl.java" />
         <option value="$PROJECT_DIR$/Toeic-Core-Test/src/main/java/vn/myclass/core/test/RoleTest.java" />
         <option value="$PROJECT_DIR$/Toeic-Core-Test/src/test/java/test/RoleTest.java" />
-        <option value="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java" />
-        <option value="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java" />
         <option value="$PROJECT_DIR$/Toeic-Core-Test/src/test/java/vn/myclass/core/test/RoleTest.java" />
         <option value="$PROJECT_DIR$/Toeic-Core-Test/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/Toeic-Core-Service-Impl/pom.xml" />
@@ -318,6 +213,8 @@
         <option value="$PROJECT_DIR$/Toeic-Core-Common/pom.xml" />
         <option value="$PROJECT_DIR$/Toeic-Web/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/Toeic-Test/src/test/java/vn/myclass/test/RoleTest.java" />
+        <option value="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java" />
+        <option value="$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java" />
       </list>
     </option>
   </component>
@@ -1491,14 +1388,11 @@
       <workItem from="1534060140887" duration="1412000" />
       <workItem from="1534081830532" duration="5476000" />
       <workItem from="1534151629067" duration="105000" />
-      <workItem from="1534166621659" duration="7766000" />
+      <workItem from="1534166621659" duration="10225000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RoleTest_findAll - 2018.08.13 at 22h 01m 28s.xml">
-      <configuration name="RoleTest.findAll" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="RoleTest_findAll - 2018.08.13 at 22h 02m 28s.xml">
       <configuration name="RoleTest.findAll" configurationId="TestNG" />
     </history-entry>
@@ -1523,12 +1417,15 @@
     <history-entry file="RoleTest_findAll - 2018.08.13 at 22h 22m 41s.xml">
       <configuration name="RoleTest.findAll" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="RoleTest_findAll - 2018.08.13 at 22h 33m 30s.xml">
+      <configuration name="RoleTest.findAll" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="RoleTest_update - 2018.08.13 at 22h 29m 08s.xml">
       <configuration name="RoleTest.update" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54374000" />
+    <option name="totallyTimeSpent" value="56833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1541,7 +1438,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1555,7 +1452,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44273505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44273505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5846154" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1564,7 +1461,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35042736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.092307694" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709402" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21633889" sideWeight="0.1897436" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19515885" sideWeight="0.8102564" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1639,13 +1536,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Toeic-Web-Logic/target/classes/vn/myclass/web/logic/common/WebConstant.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Toeic-Web-Logic/src/main/java/vn.myclass.web.logic/common/WebConstant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1894,14 +1784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Toeic-Core-Test/src/test/java/vn/myclass/core/test/RoleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -2023,18 +1905,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java">
+    <entry file="file://$PROJECT_DIR$/Toeic-Test/src/test/java/vn/myclass/test/RoleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="55" column="35" lean-forward="true" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        <state relative-caret-position="200">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="118" column="19" lean-forward="false" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toeic-Test/src/test/java/vn/myclass/test/RoleTest.java">
+    <entry file="file://$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/dao/GenericDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="11" column="101" lean-forward="false" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toeic-Core-Data/src/main/java/vn/myclass/core/data/daoimpl/AbstractDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="114" column="8" lean-forward="false" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

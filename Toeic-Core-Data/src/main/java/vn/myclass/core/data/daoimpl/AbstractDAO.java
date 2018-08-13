@@ -61,6 +61,59 @@ public class AbstractDAO<ID extends Serializable,T> implements GenericDAO<ID,T>{
         return result;
     }
 
+    public boolean delete(T object) {
+        Transaction transaction = null;
+        Session session = null;
+        try{
+            session = HibernateUtil.getSesstionFactory().openSession();
+            transaction = session.beginTransaction();
+            session.delete(object);
+
+            transaction.commit();
+        }catch (HibernateException ex){
+            transaction.rollback();
+            return false;
+        }finally {
+
+        }
+        return true;
+    }
+
+    public void save(T object) {
+        Transaction transaction = null;
+        Session session = null;
+        try{
+            session = HibernateUtil.getSesstionFactory().openSession();
+            transaction = session.beginTransaction();
+            session.persist(object);
+            transaction.commit();
+        }catch (HibernateException ex){
+            transaction.rollback();
+        }finally {
+            session.close();
+        }
+    }
+
+    public T findById(ID id) {
+        Transaction transaction = null;
+        Session session = null;
+        T result = null;
+        try{
+            session = HibernateUtil.getSesstionFactory().openSession();
+            transaction = session.beginTransaction();
+            result = (T) session.get(persistenceClass,id);
+            transaction.commit();
+        }catch (HibernateException ex){
+            transaction.rollback();
+        }finally {
+            session.close();
+        }
+        return result;
+    }
+
+    public Object[] findByProperty(String property, Object value, String sortExpression, String sortDirection) {
+
+    }
 
 
 }
