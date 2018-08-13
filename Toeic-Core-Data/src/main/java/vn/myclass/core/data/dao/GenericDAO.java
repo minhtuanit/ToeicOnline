@@ -4,6 +4,6 @@ import java.io.Serializable;
 import java.util.List;
 
 public interface GenericDAO <ID extends Serializable,T>{
-    List<T> findAll(ID id);
+    List<T> findAll();
     T update(T object);
 } 

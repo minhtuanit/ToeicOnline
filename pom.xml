@@ -27,7 +27,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.31</version>
+            <version>8.0.11</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
         <dependency>
@@ -55,6 +55,6 @@
         <module>Toeic-Core-Utils</module>
         <module>Toeic-Core-Persistence-Data</module>
         <module>Toeic-Core-Common</module>
-        <module>Toeic-Core-Test</module>
+        <module>Toeic-Test</module>
     </modules>
 </project>

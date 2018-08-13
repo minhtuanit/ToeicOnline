@@ -11,6 +11,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Toeic-Core-Test/pom.xml" />
         <option value="$PROJECT_DIR$/ToeicWeb/pom.xml" />
         <option value="$PROJECT_DIR$/toeic-web/pom.xml" />
         <option value="$PROJECT_DIR$/toeicweblogic/pom.xml" />
