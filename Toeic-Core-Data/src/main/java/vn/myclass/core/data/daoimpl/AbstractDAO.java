@@ -111,9 +111,7 @@ public class AbstractDAO<ID extends Serializable,T> implements GenericDAO<ID,T>{
         return result;
     }
 
-    public Object[] findByProperty(String property, Object value, String sortExpression, String sortDirection) {
 
-    }
 
 
 }

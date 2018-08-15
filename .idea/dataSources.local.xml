@@ -11,5 +11,15 @@
       <user-name>root</user-name>
       <resolve-scope>:</resolve-scope>
     </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="bfcbb194-705e-4765-a5de-e7f827f34d82">
+      <database-info product="MySQL" version="8.0.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>dfc5dfc8dfcfdfc6dfc3dfd9dfc1dfd8dfcbdf9bdf98</user-password>
+      <resolve-scope>toeiconline:</resolve-scope>
+    </data-source>
   </component>
 </project>

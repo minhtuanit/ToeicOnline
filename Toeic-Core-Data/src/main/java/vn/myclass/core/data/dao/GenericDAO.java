@@ -9,5 +9,5 @@ public interface GenericDAO <ID extends Serializable,T>{
     boolean delete(T object);
     void save(T object);
     T findById(ID id);
-    Object[] findByProperty(String property,Object value,String sortExpression,String sortDirection);
+
 } 

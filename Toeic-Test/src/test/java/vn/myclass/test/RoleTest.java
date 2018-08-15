@@ -12,9 +12,7 @@ public class RoleTest {
     public void findAll(){
         RoleDAO roleDAO = new RoleDAOImpl();
         List<Role> list = roleDAO.findAll();
-        for(int i=0; i < list.size(); i++){
-            System.out.println(list.get(i).getName() + " " + list.get(i).getRoleId());
-        }
+
     }
 
     @Test
