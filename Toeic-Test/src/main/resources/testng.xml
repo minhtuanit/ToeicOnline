@@ -5,6 +5,7 @@
     <test name = "RoleTest">
         <classes>
             <class name="vn.myclass.test.RoleTest"/>
+            <class name="vn.myclass.test.LoginTest"/>
         </classes>
     </test>
 </suite>

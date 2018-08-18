@@ -4,6 +4,6 @@
 <head>
 </head>
 <body>
-    <c:redirect url="/views/admin-home.html"></c:redirect>
+    <c:redirect url="/admin-home.html" ></c:redirect>
 </body>
 </html>

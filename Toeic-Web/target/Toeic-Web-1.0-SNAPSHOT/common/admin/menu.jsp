@@ -8,12 +8,5 @@
     <title>Document</title>
 </head>
 <body>
-    <ul>
-        <li>Food</li>
-        <li>Eat</li>
-        <li>Drink</li>
-        <li>Salad</li>
-        <li>Saikin</li>
-    </ul>
 </body>
 </html>

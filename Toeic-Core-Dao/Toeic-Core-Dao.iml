@@ -13,9 +13,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Toeic-Core-Data" />
     <orderEntry type="module" module-name="Toeic-Core-Common" />
+    <orderEntry type="module" module-name="Toeic-Core-Persistence-Data" />
     <orderEntry type="module" module-name="Toeic-Web" />
     <orderEntry type="module" module-name="Toeic-Web-Logic" />
-    <orderEntry type="module" module-name="Toeic-Core-Persistence-Data" />
     <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
@@ -39,5 +39,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.yaml:snakeyaml:1.12" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
     <orderEntry type="library" name="Maven: opensymphony:sitemesh:2.4.2" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
   </component>
 </module>
